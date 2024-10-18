@@ -2,6 +2,10 @@
 
 ## Setup & Run
 ### Setup (onetime)
+```bash
+cp sample_config.py config.py
+$EDITOR config.py
+```
 Add CodeBid's id in `FORWARD_FROM` list as integer.
 
 Edit `CHAT_ID` with the id of chat/channel where the forwarded messages will go (integer).
