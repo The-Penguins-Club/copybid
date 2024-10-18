@@ -1,0 +1,9 @@
+[project]
+name = "copybid"
+version = "0.1.0"
+description = "Simple bot that forward everything from codebid"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "python-telegram-bot>=21.6",
+]
