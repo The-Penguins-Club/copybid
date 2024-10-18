@@ -6,7 +6,7 @@ dist/
 wheels/
 *.egg-info
 .idea
-
+*.kate-swp
 # Virtual environments
 .venv
 
